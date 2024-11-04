@@ -1,6 +1,6 @@
 # Analyse-textuelle-Upwork
 
-Projet de scraping et analyse textuelle - Upwork (janvier-février 2024)
+Projet d'analyse textuelle - Upwork (janvier-février 2024)
 
 - Nettoyage de données sur les offres d’emploi en data science et analyse publiées sur Upwork.
   
